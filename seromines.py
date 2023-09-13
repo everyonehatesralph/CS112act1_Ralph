@@ -1,0 +1,13 @@
+name = input("Complete Name:")
+course = input("Course:")
+section = input("Section:")
+age = input("Age:")
+birthday = input("Birthday:")
+address = input("Complete Home Address:")
+
+print("Complete Name:", name)
+print("Course:", course)
+print("Section:", section)
+print("Age:", age)
+print("Birthday:", birthday)
+print("Complete Home Address:", address)
